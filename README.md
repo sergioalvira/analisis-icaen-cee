@@ -41,7 +41,7 @@ The methodology followed during the development of the script is summarized [her
 
 ## Outputs
 
-### [Interactive storymap](https://sergioalvira.github.io/storymap-cee/)
+### [Interactive storymap](https://sergioalvira.github.io/analisis-icaen-cee/storymap/)
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/aa55c1d5-5f49-4dc3-a8eb-de04876e90c4" />
 
