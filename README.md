@@ -26,6 +26,12 @@ The final dataset can be used to analyse energy certification according to:
 - Territorial area
 - Barcelona district and neighbourhood
 
+This project was developed as part of my Final Degree Thesis in 2025.
+[Full thesis doc](https://github.com/sergioalvira/analisis-icaen-cee/blob/ba218a02c63e3cbbb8e29efce5cf4da154b84c02/docs/TFG_SergioAlvira.pdf).
+
+The methodology followed during the development of the script is summarized [here](https://github.com/sergioalvira/analisis-icaen-cee/blob/ba218a02c63e3cbbb8e29efce5cf4da154b84c02/docs/metodologia.md).
+
+
 ## Pipeline
 
 | 01 | 02 | 03 | 04 | 05 | 06 | 07 |
